@@ -12,5 +12,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GitHub Repository: https://github.com/shannonradey/cs354r_final <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demo: https://drive.google.com/open?id=1NbSNqKD4GiJVPWgNFyGrpvQjszwREKRu
 
+### Shome
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://shome-housing.herokuapp.com/
+
 ### Wordpress
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://ryansweblog.wordpress.com/
