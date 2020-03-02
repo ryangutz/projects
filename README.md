@@ -1,7 +1,7 @@
 # Projects
 
 ### The Health Odyssey 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GitLab Repository: https://gitlab.com/ryangutz/idb <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [GitLab Repository] (https://gitlab.com/ryangutz/idb) <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demo: https://drive.google.com/open?id=1iX5SKnl52z1b6Da9ooMswu3tQs7wpQfE
 
 ### FitFeed
