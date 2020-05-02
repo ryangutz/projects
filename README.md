@@ -2,6 +2,7 @@
 
 
 ### Slanguages
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[App Store Download](http://tiny.cc/slanguages "Title") <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[GitLab Repository](https://gitlab.com/alvarohare1/slanguage "Title") <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Website](https://playslanguage.wixsite.com/bram "Title")
 
