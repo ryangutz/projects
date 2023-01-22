@@ -13,8 +13,5 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[GitLab Repository](https://gitlab.com/cchasteen99/fitfeed "Title") <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Demo](https://drive.google.com/open?id=1sngjkyP0-VI7xuumuH6T9EGONMk9AeqH "Title")
 
-### Shome
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://shome-housing.herokuapp.com/
-
 ### Wordpress
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://ryansweblog.wordpress.com/
